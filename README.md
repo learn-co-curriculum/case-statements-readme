@@ -12,7 +12,7 @@ A case statement is a powerful tool to test for certain conditions. They are use
 
 ### Why Use a `case` Statement?
 
-In the previous lessons, we've learned about using `if`, `elsif`, and `else` statements to enact flow control in our programs. Let's look at an example of using `if` statements that would benefit from being refactored to use a `case` statement instead. 
+In the previous lessons, we've learned about using `if/else` statements, then how (and why) to refactor using a `ternary` conditional.  But when we added more options, Ruby provided `elsif` statements to enact more flow control in our programs. So now let's look at an example of using `if` statements that would benefit from being refactored to use a `case` statement instead. 
 
 Let's say we have a program that sets a `name` variable equal to a person's name. Our program needs to execute certain code depending on what that person's name is. 
 
@@ -153,3 +153,5 @@ end
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/case-statements-readme'>Case Statements</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/case-statements-readme'>About Ruby Case Statements</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/case-statements-readme'>Case Statements</a> on Learn.co and start learning to code for free.</p>
